@@ -1,5 +1,5 @@
 # DiscordAuth
-A fast, easy and async system for authentication via Discord for your website
+A fast and easy system for authentication via Discord for your website
 
 ## Installation
 You can install DiscordAuth with composer:
